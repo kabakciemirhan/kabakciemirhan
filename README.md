@@ -5,15 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/kabakciemirhan" target="blank"><img src="https://img.shields.io/twitter/follow/kabakciemirhan?logo=twitter&style=for-the-badge" alt="kabakciemirhan" /></a> </p>
 
-- 🔭 I am using here as a Cloud for **my projects.**
+- 🔭 I am using here as a cloud for **my projects.**
 
-- 🌱 I’m currently learning **Ads, Swift and App Store Optimization**
+- 🎬 Watch my interviews, vlogs & informative videos on [https://youtube.com/c/emirhankabakci](https://youtube.com/c/emirhankabakci)
 
 - 👯 I’m currently working on **Digital Marketing, SEO and Unity Development**
 
+- 🌱 I’m currently learning **Ads, Swift and App Store Optimization**
+
 - 👨‍💻 All of my projects are available at [https://github.com/kabakciemirhan](https://github.com/kabakciemirhan)
 
-- 📝 I backing up my life to [https://emirhankabakci.com](https://emirhankabakci.com)
+- 📝 I backing up my life & sharing informative articles to [https://emirhankabakci.com](https://emirhankabakci.com)
 
 - 💬 Ask me about **SEO, Excel, Unity, C#, Wordpress and Analytics**
 
@@ -21,7 +23,7 @@
 
 - 📄 Know about my experiences [https://linkedin.com/in/kabakciemirhan](https://linkedin.com/in/kabakciemirhan)
 
-- ⚡ One fact about me **I am playing "Baglama" which is Turkish instrument.**
+- ⚡ One fact about me **Likes playing "Baglama" which is Turkish instrument, ex-PC Gamer, now Xbox Gamer, loves driving car, loves working remotely in nature**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
