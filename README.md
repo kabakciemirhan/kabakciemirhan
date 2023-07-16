@@ -23,6 +23,8 @@
 
 - 📄 Know about my experiences [https://linkedin.com/in/kabakciemirhan](https://linkedin.com/in/kabakciemirhan)
 
+- 💼 Check out my company [https://lpfstudios.com](https://lpfstudios.com)
+
 - ⚡ One fact about me **Likes playing "Baglama" which is Turkish instrument, ex-PC Gamer, now Xbox Gamer, loves driving car, loves working remotely in nature**
 
 <h3 align="left">Connect with me:</h3>
