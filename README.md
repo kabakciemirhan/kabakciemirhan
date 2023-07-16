@@ -17,6 +17,8 @@
 
 - 📝 I backing up my life & sharing informative articles to [https://emirhankabakci.com](https://emirhankabakci.com)
 
+- 🏪 Selling e-books on [https://lpfstudios.etsy.com](https://lpfstudios.etsy.com)
+
 - 💬 Ask me about **SEO, Excel, Unity, C#, Wordpress and Analytics**
 
 - 📫 How to reach me **emirhan@emirhankabakci.com**
