@@ -7,19 +7,17 @@
 
 - 🔭 I am using here as a cloud for **my projects.**
 
-- 🎬 Watch my interviews, vlogs & informative videos on [https://youtube.com/c/emirhankabakci](https://youtube.com/c/emirhankabakci)
-
 - 👯 I’m currently working on **Digital Marketing, SEO and Unity Development**
-
-- 🌱 I’m currently learning **Ads, Swift and App Store Optimization**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kabakciemirhan](https://github.com/kabakciemirhan)
 
-- 📝 I backing up my life & sharing informative articles to [https://emirhankabakci.com](https://emirhankabakci.com)
+- 🎬 Watch my interviews, vlogs & informative videos on [https://youtube.com/c/emirhankabakci](https://youtube.com/c/emirhankabakci)
 
-- 🏪 Selling e-books on [https://lpfstudios.etsy.com](https://lpfstudios.etsy.com)
+- 📝 I backing up my life [https://emirhankabakci.com](https://emirhankabakci.com)
 
-- 💬 Ask me about **SEO, Excel, Unity, C#, Wordpress and Analytics**
+- 📚 Sharing my past and articles to [https://emirhankabakci.com/emirhan-blog](https://emirhankabakci.com/emirhan-blog)
+
+- 💬 Ask me or hire me about **SEO, Excel, Unity, C#, Wordpress and Analytics**
 
 - 📫 How to reach me **emirhan@emirhankabakci.com**
 
