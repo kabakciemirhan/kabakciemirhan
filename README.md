@@ -11,19 +11,19 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kabakciemirhan](https://github.com/kabakciemirhan)
 
-- 🎬 Watch my interviews, vlogs & informative videos on [https://youtube.com/c/emirhankabakci](https://youtube.com/c/emirhankabakci)
-
 - 📝 I backing up my life [https://emirhankabakci.com](https://emirhankabakci.com)
 
 - 📚 Sharing my past and articles to [https://emirhankabakci.com/emirhan-blog](https://emirhankabakci.com/emirhan-blog)
 
-- 💬 Ask me or hire me about **SEO, Excel, Unity, C#, Wordpress and Analytics**
+- 🎬 Watch my interviews, vlogs & informative videos on [https://youtube.com/c/emirhankabakci](https://youtube.com/c/emirhankabakci)
 
 - 📫 How to reach me **emirhan@emirhankabakci.com**
 
 - 📄 Know about my experiences [https://linkedin.com/in/kabakciemirhan](https://linkedin.com/in/kabakciemirhan)
 
 - 💼 Check out my company [https://lpfstudios.com](https://lpfstudios.com)
+
+- - 💬 Ask me or hire me about **SEO, Excel, Unity, C#, Wordpress and Analytics**
 
 - ⚡ One fact about me **Likes playing "Baglama" which is Turkish instrument, ex-PC Gamer, now Xbox Gamer, loves driving car, loves working remotely in nature**
 
