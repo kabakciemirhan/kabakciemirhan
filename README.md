@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/kabakciemirhan" target="blank"><img src="https://img.shields.io/twitter/follow/kabakciemirhan?logo=twitter&style=for-the-badge" alt="kabakciemirhan" /></a> </p>
 
-- 🔭 I am using here as a cloud for **my projects.**
+- 🔭 I am using here as a cloud for **my game developments.**
 
-- 👯 I’m currently working on **Digital Marketing, SEO and Unity Development**
+- 👯 I’m currently working on **Mainly Unity Development, also Digital Marketing, SEO**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kabakciemirhan](https://github.com/kabakciemirhan)
 
@@ -15,13 +15,11 @@
 
 - 📚 Sharing my past and articles to [https://emirhankabakci.com/emirhan-blog](https://emirhankabakci.com/emirhan-blog)
 
-- 🎬 Watch my interviews, vlogs & informative videos on [https://youtube.com/c/emirhankabakci](https://youtube.com/c/emirhankabakci)
+- 🎬 Watch my interviews, world travelling vlogs & informative videos on [https://youtube.com/c/emirhankabakci](https://youtube.com/c/emirhankabakci)
 
 - 📫 How to reach me **emirhan@emirhankabakci.com**
 
 - 📄 Know about my experiences [https://linkedin.com/in/kabakciemirhan](https://linkedin.com/in/kabakciemirhan)
-
-- 💼 Check out my company [https://lpfstudios.com](https://lpfstudios.com)
 
 - - 💬 Ask me or hire me about **SEO, Excel, Unity, C#, Wordpress and Analytics**
 
