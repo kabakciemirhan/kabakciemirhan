@@ -21,7 +21,9 @@
 
 - 📄 Know about my experiences [https://linkedin.com/in/kabakciemirhan](https://linkedin.com/in/kabakciemirhan)
 
-- - 💬 Ask me or hire me about **SEO, Excel, Unity, C#, Wordpress and Analytics**
+- 🎮 I live at [https://twitch.tv/kabakciemirhan](https://twitch.tv/kabakciemirhan)
+
+- 💬 Ask me or hire me about **SEO, Excel, Unity, C#, Wordpress and Analytics**
 
 - ⚡ One fact about me **Likes playing "Baglama" which is Turkish instrument, ex-PC Gamer, now Xbox Gamer, loves driving car, loves working remotely in nature**
 
