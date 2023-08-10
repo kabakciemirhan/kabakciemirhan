@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://linkedin.com/in/kabakciemirhan](https://linkedin.com/in/kabakciemirhan)
 
-- 🎮 I live at [https://twitch.tv/kabakciemirhan](https://twitch.tv/kabakciemirhan)
+- 🎮 I live at [https://twitch.tv/emcoingames](https://twitch.tv/emcoingames)
 
 - 💬 Ask me or hire me about **SEO, Excel, Unity, C#, Wordpress and Analytics**
 
