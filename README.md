@@ -15,6 +15,8 @@
 
 - 📚 Sharing my past and articles to [https://emirhankabakci.com/emirhan-blog](https://emirhankabakci.com/emirhan-blog)
 
+- 📚 You can buy my courses from [https://udemy.com/user/emirhan-kabakci](https://udemy.com/user/emirhan-kabakci)
+
 - 🎬 Watch my interviews, world travelling vlogs & informative videos on [https://youtube.com/c/emirhankabakci](https://youtube.com/c/emirhankabakci)
 
 - 📫 How to reach me **emirhan@emirhankabakci.com**
