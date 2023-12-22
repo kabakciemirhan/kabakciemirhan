@@ -5,25 +5,21 @@
 
 <p align="left"> <a href="https://twitter.com/kabakciemirhan" target="blank"><img src="https://img.shields.io/twitter/follow/kabakciemirhan?logo=twitter&style=for-the-badge" alt="kabakciemirhan" /></a> </p>
 
-- 🔭 I am using here as a cloud for **my game developments.**
+- 🔭 I am using here as a cloud for **my game developments.** and **learning processes.**
 
 - 👯 I’m currently working on **Mainly Unity Development, also Digital Marketing, SEO**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kabakciemirhan](https://github.com/kabakciemirhan)
 
-- 📝 I backing up my life [https://emirhankabakci.com](https://emirhankabakci.com)
+- 📝 I backing up my life and sharing post and articles at [https://emirhankabakci.com](https://emirhankabakci.com)
 
-- 📚 Sharing my past and articles to [https://emirhankabakci.com/emirhan-blog](https://emirhankabakci.com/emirhan-blog)
-
-- 📚 You can buy my courses from [https://udemy.com/user/emirhan-kabakci](https://udemy.com/user/emirhan-kabakci)
+- 📚 You can buy my courses (4000+ student) from [https://udemy.com/user/emirhan-kabakci](https://udemy.com/user/emirhan-kabakci)
 
 - 🎬 Watch my interviews, world travelling vlogs & informative videos on [https://youtube.com/c/emirhankabakci](https://youtube.com/c/emirhankabakci)
 
 - 📫 How to reach me **emirhan@emirhankabakci.com**
 
 - 📄 Know about my experiences [https://linkedin.com/in/kabakciemirhan](https://linkedin.com/in/kabakciemirhan)
-
-- 🎮 I live at [https://twitch.tv/emcoingames](https://twitch.tv/emcoingames)
 
 - 💬 Ask me or hire me about **SEO, Excel, Unity, C#, Wordpress and Analytics**
 
