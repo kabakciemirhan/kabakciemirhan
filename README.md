@@ -1,5 +1,5 @@
 <h1 align="center">Hello, World! I'm Emirhan Kabakcı 🌍</h1>
-<h3 align="center">🚀 Digital Nomad & Full Stack Developer from Turkey / Türkiye 🇹🇷</h3>
+<h3 align="center">🚀 Digital Nomad & Full Stack Developer from Turkey 🇹🇷</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kabakciemirhan&label=Profile%20views&color=brightgreen&style=flat-square" alt="kabakciemirhan" /> 
@@ -12,7 +12,12 @@
 
 ### 👋 About Me
 
-- 🔭 **Exploring**: Unity Game Development, SEO, Digital Marketing
+- 🎓 **Bachelor's Degree**: Yıldız Technical University - Computer Education and Industrial Technologies (GPA: 3.4)
+- 🌍 **Erasmus Experience**: University of Salamanca, Spain (January - June 2022)
+- 🎓 **Master's Degree**: Currently pursuing Technology, Design, and Innovation Management at İzmir Institute of Technology
+- 🔭 **Exploring**: Unity Game Development, SEO, Digital Marketing, Data Science
+- 👨‍💻 **Expertise**: SEO, Project Experience in Unity, WordPress, Digital Marketing
+- 📖 **Currently Learning**: Python, R, Jupyter Notebook, Data Science
 - 👨‍💻 **All Projects**: Check out my work [here](https://github.com/kabakciemirhan)
 - 📝 **Sharing My Journey**: I blog about my life and projects at [emirhankabakci.com](https://emirhankabakci.com)
 - 📚 **Teaching**: 4000+ students enrolled in my [Udemy courses](https://udemy.com/user/emirhan-kabakci)
@@ -38,6 +43,17 @@
 
 ---
 
+### 🌟 Featured Projects
+
+Here are some of my favorite projects:
+
+- [**Project 1**](https://github.com/kabakciemirhan/project-1) - A brief description of what the project does.
+- [**Project 2**](https://github.com/kabakciemirhan/project-2) - Another cool project to showcase my skills.
+- [**Project 3**](https://github.com/kabakciemirhan/project-3) - This one involves more advanced concepts.
+- [**See All Projects**](https://github.com/kabakciemirhan?tab=repositories) - Explore the full list of my repositories.
+
+---
+
 ### 🌐 Connect with Me
 
 <p align="center">
@@ -46,9 +62,6 @@
   </a>
   <a href="https://linkedin.com/in/kabakciemirhan" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://stackoverflow.com/users/kabakciemirhan" target="blank">
-    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
   </a>
   <a href="https://www.behance.net/kabakciemirhan" target="blank">
     <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
