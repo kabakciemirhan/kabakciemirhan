@@ -16,14 +16,13 @@
 - 🌍 **Erasmus Experience**: University of Salamanca, Spain (January - June 2022)
 - 🎓 **Master's Degree**: Currently pursuing Technology, Design, and Innovation Management at İzmir Institute of Technology
 - 🔭 **Exploring**: Unity Game Development, SEO, Digital Marketing, Data Science
-- 👨‍💻 **Expertise**: SEO, Project Experience in Unity, WordPress, Digital Marketing
+- 👨‍💻 **Expertise**: SEO, Professional Project Experience in Unity, WordPress, Digital Marketing, Python, and Data Science; Revenue Model with Google AdSense and Analytics
 - 📖 **Currently Learning**: Python, R, Jupyter Notebook, Data Science
 - 👨‍💻 **All Projects**: Check out my work [here](https://github.com/kabakciemirhan)
-- 📝 **Sharing My Journey**: I blog about my life and projects at [emirhankabakci.com](https://emirhankabakci.com)
-- 📚 **Teaching**: 4000+ students enrolled in my [Udemy courses](https://udemy.com/user/emirhan-kabakci)
-- 🎥 **YouTube**: Watch my vlogs, interviews, and tutorials on [YouTube](https://youtube.com/c/emirhankabakci)
+- 📝 **Blog (Turkish)**: Visit [emirhankabakci.com](https://emirhankabakci.com) for Turkish content.
+- 🌐 **Blog (English)**: Visit [emirhankabakci.com/en](https://emirhankabakci.com/en) for English content.
 - 💬 **Reach Out**: Feel free to contact me at **emirhan@emirhankabakci.com**
-- ⚡ **Fun Fact**: I play "Bağlama," love gaming (ex-PC gamer, now Xbox), and enjoy working remotely in nature 🌲
+- ⚡ **Fun Fact**: I play "Bağlama," love gaming (ex-PC gamer, now Xbox), enjoy working remotely in nature 🌲, and love taking long journeys with my motorcycle 🏍️.
 
 ---
 
@@ -36,21 +35,22 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/AdSense-4285F4?style=for-the-badge&logo=googleadsense&logoColor=white" />
+  <img src="https://img.shields.io/badge/Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
 ---
 
 ### 🌟 Featured Projects
 
-Here are some of my favorite projects:
-
-- [**Project 1**](https://github.com/kabakciemirhan/project-1) - A brief description of what the project does.
-- [**Project 2**](https://github.com/kabakciemirhan/project-2) - Another cool project to showcase my skills.
-- [**Project 3**](https://github.com/kabakciemirhan/project-3) - This one involves more advanced concepts.
-- [**See All Projects**](https://github.com/kabakciemirhan?tab=repositories) - Explore the full list of my repositories.
+| Project Name   | Description                                                                 | Link                                               |
+|----------------|-----------------------------------------------------------------------------|----------------------------------------------------|
+| **Project 1**  | A brief description of what the project does.                               | [GitHub](https://github.com/kabakciemirhan/project-1) |
+| **Project 2**  | Another cool project to showcase my skills.                                 | [GitHub](https://github.com/kabakciemirhan/project-2) |
+| **Project 3**  | This one involves more advanced concepts.                                   | [GitHub](https://github.com/kabakciemirhan/project-3) |
+| **See All Projects** | Explore the full list of my repositories.                             | [GitHub Repositories](https://github.com/kabakciemirhan?tab=repositories) |
 
 ---
 
@@ -63,10 +63,19 @@ Here are some of my favorite projects:
   <a href="https://linkedin.com/in/kabakciemirhan" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://stackoverflow.com/users/kabakciemirhan" target="blank">
+    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  </a>
   <a href="https://www.behance.net/kabakciemirhan" target="blank">
     <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
   </a>
   <a href="https://www.youtube.com/c/emirhankabakci" target="blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://instagram.com/kabakciemirhan" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://facebook.com/kabakciemirhan" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
