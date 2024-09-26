@@ -93,6 +93,139 @@
 
 ---
 
+## My Other Projects
+
+### Portfolio in English:
+[Download Portfolio](https://emirhankabakci.com/wp-content/uploads/2024/03/portfolio-emirhan-kabakci-1.pdf)
+
+---
+
+### Table of Contents
+- [What I know on Unity?](#what-i-know-on-unity)
+- [What did I do with Unity?](#what-did-i-do-with-unity)
+- [My Games that Available to Play](#my-games-that-available-to-play)
+- [Erasmus Experience and Passive Income](#erasmus-experience-and-passive-income)
+- [Web Design Projects](#web-design-projects)
+  - [Orendabayindir.com](#orendabayindircom)
+  - [Gencfinanskulup.com](#gencfinanskulupcom)
+  - [Asiyetabanli.com](#asiyetabanlicom)
+  - [Bordosalkim.com](#bordosalkimcom)
+  - [TercanAVM Web Design](#tercanavm-web-design)
+  - [Itumdk.com](#itumdkcom)
+  - [Pantropik.com](#pantropikcom)
+- [Photoshop Designs](#photoshop-designs)
+  - [Documents for Genc Finans Kulup](#documents-for-genc-finans-kulup)
+  - [Post Designs for TFYV](#post-designs-for-tfyv)
+  - [Harekete Geçir Animated Post](#harekete-gecir-animated-post)
+  - [YTÜ E-Biltek Post](#ytü-e-biltek-post)
+- [Podcasts I Edited](#podcasts-i-edited)
+- [Presentations](#presentations)
+- [Video Montage Projects](#video-montage-projects)
+  - [Girisimcilik Vakfi Application Videos](#girisimcilik-vakfi-application-videos)
+
+---
+
+### What I know on Unity?
+- **Technologies:** Vuforia, Firebase, AdMob, Unity Ads, LootLocker, Barracuda Motion Detection, OpenCV, 2D/3D Programming, UI Design.
+- [Watch my game "Let’s Hurry Up" on markets (iOS & Android)](https://youtube.com/shorts/Xo_N-E8XdOo?si=ydXBZBisvI0tJRx-)
+- [Watch my game in development: Plantevine](https://youtube.com/shorts/fdUuaNApwSg?si=hNpabjkNc7LxX5eL)
+
+---
+
+### What did I do with Unity?
+Since 2016, I’ve developed more than 10 games. Some of them are available on my [GitHub account](https://github.com/kabakciemirhan), and others are no longer accessible. I currently have two active games, one on the market and one in development. I generate passive income using the ad model.
+
+---
+
+### My Games that Available to Play
+- [Let's Hurry Up (Google Play)](https://play.google.com/store/apps/details?id=com.lpfstudios.hurryup)
+- [Let's Hurry Up (Apple Store)](https://apps.apple.com/tr/app/lets-hurry-up/id6455461431?l=tr)
+- [Snow Boarder (GitHub)](https://github.com/kabakciemirhan/Snow-Boarder)
+- [OYEDU Game (GitHub)](https://github.com/kabakciemirhan/oyedu-game)
+- [Quiz Master Game (GitHub)](https://github.com/kabakciemirhan/quiz-master-game-unity)
+- [Run Dolunay Run (GitHub)](https://github.com/kabakciemirhan/run-dolunay-run)
+- [Defend Your Castle (GitHub)](https://github.com/kabakciemirhan/defend-your-castle)
+- [Delivery Driver (GitHub)](https://github.com/kabakciemirhan/Delivery-Driver)
+- [Online Stickman Fights (GitHub)](https://github.com/kabakciemirhan/online-cubuk-adam-dovusleri)
+- [Obstacles on the Planet (GitHub)](https://github.com/kabakciemirhan/gezegendeki-engeller)
+- [Reflex Game for Two Players (GitHub)](https://github.com/kabakciemirhan/2-kisilik-refleks-oyunu)
+- [Education Game Example (GitHub)](https://github.com/kabakciemirhan/education-game-example-unity)
+
+---
+
+### Erasmus Experience and Passive Income
+During my Erasmus, I experienced the digital nomad lifestyle and discussed passive income through freelancing.  
+[Watch my video on Freelancing and Passive Income](https://youtu.be/udLBbSt_YbI)
+
+---
+
+### Web Design Projects
+#### Orendabayindir.com
+An e-commerce platform for flower producers, created in 2020-2021.  
+[Watch the project video](https://youtu.be/GjjuupNW7jI)
+
+#### Gencfinanskulup.com
+Website for the Genç Finans Kulüp, designed during my time as IT head.  
+[Watch the project video](https://youtu.be/DcZzm90Q8kc)  
+[Behance Project](https://www.behance.net/gallery/105671409/gencfinanskulupcom-Web-Design-Development-and-Publish)
+
+#### Asiyetabanli.com
+A personal website designed for my entrepreneurship partner.  
+[Watch the project video](https://youtu.be/7MgBQdL7qFg)
+
+#### Bordosalkim.com
+Wine website created for a client.  
+[Watch the project video](https://youtu.be/zJT5Co5px18)
+
+#### TercanAVM Web Design
+[Watch the project video](https://youtu.be/iEWqG6YKZ4M)
+
+#### Itumdk.com
+Website designed for the Turkish University Music and Culture Club.  
+[Watch the project video](https://youtu.be/w1y6KqM7zyA)  
+[Behance Project](https://www.behance.net/gallery/105661735/itumdkcom-Web-Site-Development-Design-and-Publish)
+
+#### Pantropik.com
+Pantropik, a startup I co-founded, which aimed to bring together suppliers and clients.  
+[Watch the project video](https://youtu.be/U3RVZELAqEM)
+
+---
+
+### Photoshop Designs
+#### Documents for Genc Finans Kulup
+- [Download Document 1](https://emirhankabakci.com/wp-content/uploads/2021/03/eko.pdf)
+- [Download Document 2](https://emirhankabakci.com/wp-content/uploads/2021/03/ekonomi-bulteni.pdf)
+
+#### Post Designs for TFYV
+- [View on Behance](https://www.behance.net/gallery/105658827/Tuerkiye-Finans-Yoeneticileri-Vakf-2020-2021-YK/modules/606439503)
+
+#### Harekete Geçir Animated Post
+Worked on designs for the social platform "Harekete Geçir".  
+[Watch the project video](https://youtu.be/OwSVnPvVL6A)
+
+#### YTÜ E-Biltek Post
+A design I created for Yıldız Technical University's E-Biltek event.
+
+---
+
+### Podcasts I Edited
+- [Podcast 1](https://open.spotify.com/show/5XL6WaF6luFhi7QwhBtsgh?si=65NGobQ4TNm4WvD441U_BA)
+- [Podcast 2](https://open.spotify.com/show/5Jgmi7DcuawNrRDIlbAaKE?si=mclFjTpyQZW1yg3tEyGLUA)
+
+---
+
+### Presentations
+- [Download GFK Presentation](https://emirhankabakci.com/wp-content/uploads/2021/03/gfk-presentatio.pptx)
+
+---
+
+### Video Montage Projects
+#### Girisimcilik Vakfi Application Videos
+- [2019 Application Video](https://youtu.be/wHZSx59SdDE)
+- [2020 Application Video](https://youtu.be/7wmGOJZf2cM)
+- [2021 Application Video](https://youtu.be/et_YoaXh9ks)  
+[View more on Behance](https://www.behance.net/gallery/105660287/My-Application-Videos-for-GirVak)
+
 ---
 
 ## 🎨 Detailed About Me
@@ -161,7 +294,4 @@ Check out this video where I describe how I work:
 - For more content, interviews with C-level executives, my **Erasmus travel vlogs** from **10 countries & 35 cities**, and more, subscribe to my **YouTube channel**:
     - [YouTube Channel](https://youtube.com/c/emirhankabakci?sub_confirmation=1)
 - Feel free to reach out via email at **emirhan@emirhankabakci.com**. I usually reply within **1-3 business days**.
-
----
-
 
