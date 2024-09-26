@@ -90,3 +90,78 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
+
+---
+
+---
+
+## 🎨 Detailed About Me
+
+Hello, I'm **Emirhan Kabakcı**. You might wonder why it's written as "Kabakcı" instead of "Kabakçı"; that's because it's written that way on my ID card, and I'm particular about keeping it accurate.
+
+### 🎓 Education & Background
+
+- 🏫 **Bachelor's Degree**: Graduated from Yıldız Technical University in Computer Education and Industrial Technologies in 2023.
+- 🎓 **Master's Degree**: Currently pursuing a master's in **Technology, Design, and Innovation Management** (in English) at **Izmir Institute of Technology**, with a focus on **thesis research**.
+- 🎮 I develop mobile games and am continuously honing my skills in **Digital Marketing**, **E-commerce**, **SEO**, and **WordPress**, while simultaneously working on academic projects. I have successfully grown and managed ventures like **Pantropik.com** and **OrendaBayindir.com**, though both are now closed. You can find more details on my blog.
+
+### 🚀 Experience & Achievements
+
+- With **over 15 years of gaming experience**, **7+ years in software development**, and **5+ years as an entrepreneur**, I am always creating.
+- Published multiple **games**; check them out on [my GitHub](https://github.com/kabakciemirhan) or view my **game portfolio** on [this link](https://emirhankabakci.com/portfolyo).
+- Created **2 Udemy courses** with over **4,000 students**, available [here](https://www.udemy.com/user/emirhan-kabakci).
+- Extensive professional experience in **Game Development**, **SEO**, and **WordPress**.
+- Actively engaged in **E-commerce** and sharing my journey through [this blog post](https://emirhankabakci.com/yeni-is-alanim-e-ticaret-dropshipping-amazon-shopify) and on [Twitter](https://x.com/kabakciemirhan/status/1814989839290233225).
+
+### 🌟 Full-time & Freelance Work
+
+- Currently working as a **full-time SEO Specialist** at [icerikler.com](https://icerikler.com) and also taking on **freelance projects** through a referral system. I've worked with organizations like **Arya Women**, **Youth Finance Club**, **GoGlobal**, and **Leventofis**.
+
+### 💻 Tech Stack & Expertise
+
+- Started my software journey in 2015, developing **3 mobile games** and a **mobile app**. I used **Unity** with **C#** for games and **Android Studio** with **Java** for the app. I monetized through **Google AdSense** and used **Google Analytics** for planning.
+- Now, I work at an international game company while also developing my own games. You can find my games on the **Google Play** and **App Store** links below:
+    - [Google Play: Hurry Up](https://play.google.com/store/apps/details?id=com.lpfstudios.hurryup)
+    - [App Store: Hurry Up](https://apps.apple.com/tr/app/lets-hurry-up/id6455461431?l=tr)
+
+### 🛠️ Design & Video Production
+
+- I create designs and video edits using **Adobe Creative Cloud** tools. These skills have been integral to the startups I’ve been part of. 
+- With my startup **Pantropik**, I was a finalist in entrepreneurship competitions such as **Next2020** by **Google** and the **Android Academy**.
+- You can explore my design portfolio on [Behance](http://behance.net/kabakciemirhan).
+
+### 🏅 Achievements
+
+- In 2021, I was selected among **40 fellows** out of **150,000 applicants** for the **Turkish Entrepreneurship Foundation (Girvak)** Fellow Program, where I completed a two-year journey. Now, I’m an **Alumni**. You can read about my experiences on [my blog](https://emirhankabakci.com/blog) or watch videos on my [YouTube channel](https://www.youtube.com/channel/UCNvF0yCk813DukJtCgLAGQg).
+- Following my **Erasmus experience in June 2022**, I have been dedicating my time to creating the products of my dreams in the fields of **mobile games**, **manuals**, and **video courses**, while continuing my work in digital marketing.
+
+### 🎮 Gaming Enthusiast
+
+- I've been playing video games since I was **5 years old**. After being a PC gamer until the age of 22, I switched to **Xbox**. You can find me on:
+    - [Xbox Profile](https://account.xbox.com/tr-tr/Profile?gamertag=DonaldLovee)
+    - [Steam Profile](https://steamcommunity.com/id/kabakciemirhan)
+
+### 🎶 Music & Hobbies
+
+- Besides gaming, I play the **Bağlama** (a traditional Turkish instrument) and share videos of the songs I play on **YouTube** and **Instagram**.
+
+### 🎥 Watch My Working Style
+
+Check out this video where I describe how I work:
+
+[![My Working Style](https://img.youtube.com/vi/udLBbSt_YbI/0.jpg)](https://youtu.be/udLBbSt_YbI)
+
+### 📚 My Udemy Courses
+
+- [Digital World SEO Course](https://www.udemy.com/course/dijital-dunyada-yerinizi-alin-emirhan-kabakci/)
+- [SEO for Beginners](https://www.udemy.com/course/yeni-baslayanlar-icin-seo-emirhan-k/)
+
+### ✨ Stay Connected
+
+- For more content, interviews with C-level executives, my **Erasmus travel vlogs** from **10 countries & 35 cities**, and more, subscribe to my **YouTube channel**:
+    - [YouTube Channel](https://youtube.com/c/emirhankabakci?sub_confirmation=1)
+- Feel free to reach out via email at **emirhan@emirhankabakci.com**. I usually reply within **1-3 business days**.
+
+---
+
+
