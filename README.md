@@ -45,12 +45,23 @@
 
 ### 🌟 Featured Projects
 
-| Project Name   | Description                                                                 | Link                                               |
-|----------------|-----------------------------------------------------------------------------|----------------------------------------------------|
-| **Project 1**  | A brief description of what the project does.                               | [GitHub](https://github.com/kabakciemirhan/project-1) |
-| **Project 2**  | Another cool project to showcase my skills.                                 | [GitHub](https://github.com/kabakciemirhan/project-2) |
-| **Project 3**  | This one involves more advanced concepts.                                   | [GitHub](https://github.com/kabakciemirhan/project-3) |
-| **See All Projects** | Explore the full list of my repositories.                             | [GitHub Repositories](https://github.com/kabakciemirhan?tab=repositories) |
+| Project Name                               | Description                                                                 | Link |
+|--------------------------------------------|-----------------------------------------------------------------------------|------|
+| **Oyedu Game**                             | Developed for a startup, this educational game integrates fun with learning, utilizing interactive gameplay mechanics to engage users of all ages. | [GitHub](https://github.com/kabakciemirhan/oyedu-game) |
+| **Snow Boarder**                           | A fast-paced 2D snowboarding game where players navigate challenging terrains, showcasing my skills in game physics and level design. | [GitHub](https://github.com/kabakciemirhan/Snow-Boarder) |
+| **Quiz Master Game (Unity)**               | Test your knowledge! A Unity-based quiz game that allows users to challenge themselves across various categories, with dynamic scoring and leaderboards. | [GitHub](https://github.com/kabakciemirhan/quiz-master-game-unity) |
+| **Web Crawling Template**                  | A Python-powered web crawling tool designed to extract data efficiently from websites, perfect for data gathering and scraping projects. | [GitHub](https://github.com/kabakciemirhan/web-crawling-template-from-a-website) |
+| **100 Days of Swift**                      | Documenting my journey of learning Swift with 100 days of progress logs, this project highlights dedication to mastering Apple's development language. | [GitHub](https://github.com/kabakciemirhan/learn-swift-100-days-emirhan-kabakci-logs) |
+| **Run Dolunay Run**                        | A thrilling Temple Run-style endless runner game where quick reflexes and sharp decision-making are key to high scores! | [GitHub](https://github.com/kabakciemirhan/run-dolunay-run) |
+| **Defend Your Castle**                     | A strategic tower defense game where players must deploy defenses and manage resources to protect their stronghold from waves of enemies. | [GitHub](https://github.com/kabakciemirhan/defend-your-castle) |
+| **Delivery Driver**                        | A 2D car driving game focused on speed and precision, where players navigate through traffic and obstacles to make timely deliveries. | [GitHub](https://github.com/kabakciemirhan/Delivery-Driver) |
+| **50 Hours of Python Projects**            | A collection of Python projects created over 50 hours, covering a wide range of topics including automation, data analysis, and web development. | [GitHub](https://github.com/kabakciemirhan/50-hours-python-lecture-projects) |
+| **Online Çubuk Adam Dövüşleri**            | My first online multiplayer game, where players control stick figures to battle it out in dynamic and fast-paced duels. | [GitHub](https://github.com/kabakciemirhan/online-cubuk-adam-dovusleri) |
+| **Gezegendeki Engeller**                   | A 3D racing game with a unique planetary setting, challenging players to overcome environmental obstacles and finish the race first. | [GitHub](https://github.com/kabakciemirhan/gezegendeki-engeller) |
+| **2 Kişilik Refleks Oyunu**                | A multiplayer cooperative reflex game where players must synchronize their actions to progress through increasingly difficult levels. | [GitHub](https://github.com/kabakciemirhan/2-kisilik-refleks-oyunu) |
+| **Education Game (Unity)**                 | A Unity-based educational game designed to help students learn through interactive challenges and puzzles. | [GitHub](https://github.com/kabakciemirhan/education-game-example-unity) |
+| **Ortaklar Fen Lisesi Mobile App**         | A mobile application developed for a high school, integrating features like announcements, student tracking, and academic resources. | [GitHub](https://github.com/kabakciemirhan/ortaklar-fen-lisesi-mobile-app) |
+| **See All Projects**                       | Explore the full list of my repositories to see more of my work in various domains, including Unity, Python, and Web Development. | [GitHub Repositories](https://github.com/kabakciemirhan?tab=repositories) |
 
 ---
 
