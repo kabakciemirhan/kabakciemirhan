@@ -299,3 +299,26 @@ Check out this video where I describe how I work:
     - [YouTube Channel](https://youtube.com/c/emirhankabakci?sub_confirmation=1)
 - Feel free to reach out via email at **emirhan@emirhankabakci.com**. I usually reply within **1-3 business days**.
 
+# My Some Projects' Demos
+
+[![Video 1](https://img.youtube.com/vi/NWIoHcDBd18/0.jpg)](https://youtu.be/NWIoHcDBd18)
+[![Video 2](https://img.youtube.com/vi/Rdi--Gi1uY0/0.jpg)](https://youtu.be/Rdi--Gi1uY0)
+[![Video 3](https://img.youtube.com/vi/su1ilWPJ_qM/0.jpg)](https://youtu.be/su1ilWPJ_qM)
+[![Video 4](https://img.youtube.com/vi/U3RVZELAqEM/0.jpg)](https://youtu.be/U3RVZELAqEM)
+[![Video 5](https://img.youtube.com/vi/w1y6KqM7zyA/0.jpg)](https://youtu.be/w1y6KqM7zyA)
+[![Video 6](https://img.youtube.com/vi/syNEC27NcuE/0.jpg)](https://youtu.be/syNEC27NcuE)
+[![Video 7](https://img.youtube.com/vi/s7AdwsZiPdM/0.jpg)](https://youtu.be/s7AdwsZiPdM)
+[![Video 8](https://img.youtube.com/vi/iEWqG6YKZ4M/0.jpg)](https://youtu.be/iEWqG6YKZ4M)
+[![Video 9](https://img.youtube.com/vi/zJT5Co5px18/0.jpg)](https://youtu.be/zJT5Co5px18)
+[![Video 10](https://img.youtube.com/vi/7MgBQdL7qFg/0.jpg)](https://youtu.be/7MgBQdL7qFg)
+[![Video 11](https://img.youtube.com/vi/DcZzm90Q8kc/0.jpg)](https://youtu.be/DcZzm90Q8kc)
+[![Video 12](https://img.youtube.com/vi/GjjuupNW7jI/0.jpg)](https://youtu.be/GjjuupNW7jI)
+[![Video 13](https://img.youtube.com/vi/wTJFftjxCC0/0.jpg)](https://youtu.be/wTJFftjxCC0)
+[![Video 14](https://img.youtube.com/vi/6Hh1PCx5xwE/0.jpg)](https://youtu.be/6Hh1PCx5xwE)
+[![Video 15](https://img.youtube.com/vi/BYdbpHyev94/0.jpg)](https://youtu.be/BYdbpHyev94)
+[![Video 16](https://img.youtube.com/vi/smaALmYYTk4/0.jpg)](https://youtu.be/smaALmYYTk4)
+[![Video 17](https://img.youtube.com/vi/aqnzZqrok-s/0.jpg)](https://youtu.be/aqnzZqrok-s)
+[![Video 18](https://img.youtube.com/vi/OPjWcfHP8hA/0.jpg)](https://youtu.be/OPjWcfHP8hA)
+[![Video 19](https://img.youtube.com/vi/wt8Zxz2cjXk/0.jpg)](https://youtu.be/wt8Zxz2cjXk)
+[![Video 20](https://img.youtube.com/vi/cT9s-nzipgw/0.jpg)](https://youtu.be/cT9s-nzipgw)
+
