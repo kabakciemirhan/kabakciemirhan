@@ -12,6 +12,10 @@
 
 ### 👋 About Me
 
+<p align="center">
+  <img src="https://emirhankabakci.com/wp-content/uploads/2024/03/IMG_4134-1536x2048.webp" alt="Emirhan Kabakcı" style="border-radius: 50%; width: 300px; height: 300px; object-fit: cover;" />
+</p>
+
 - 🎓 **Bachelor's Degree**: Yıldız Technical University - Computer Education and Industrial Technologies (GPA: 3.4)
 - 🌍 **Erasmus Experience**: University of Salamanca, Spain (January - June 2022)
 - 🎓 **Master's Degree**: Currently pursuing Technology, Design, and Innovation Management at İzmir Institute of Technology
